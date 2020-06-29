@@ -10,7 +10,7 @@ Apply transfer learning from ResNet50 v.2 with weights from ImageNet to classify
 2: Pneumonia from causes other than COVID-19
 ```
 
-Trained on 3,641 images and validated on 525 images.
+Trained on 3,641 images and validated on 473 images.
 ![training_graph](https://github.com/KongpolC/COVID-19_Image_Classification/blob/master/images/training_graph.jpg)
 
 ## Result
